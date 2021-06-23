@@ -15,6 +15,7 @@
   <li>👩‍🎓 I’m currently finishing Profesional Formation in <b>Web App Development</b> and getting ready for new learning experiences.</li>
   <li>🤝 I’m looking to collaborate on interesting projects that can help me <b>learn and improve</b>.</li>
   <li>📫 How to <b>reach me</b>: <a href="mailto:cancelacastrolaura@gmail.com">cancelacastrolaura@gmail.com</a>.</li>
+  <li>🗺 My two native languages are Spanish 🇪🇸 and Galician (which allows me to understand portuguese 🇵🇹) and I have 
 </ul>
 <hr></hr>
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
@@ -29,3 +30,14 @@
 LauraCancelaCastro/LauraCancelaCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!--style>
+  hr {
+    border-top: 1px solid;
+    border-image: 
+      linear-gradient(
+        to bottom, 
+        #C7DE98, 
+        #879960
+      ) 1 100%;
+  }
+</style-->
