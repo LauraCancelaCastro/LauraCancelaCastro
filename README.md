@@ -21,19 +21,19 @@
 </ul>
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
 <hr></hr>
-<h3>My learning progress</h3>
+<h3>My skills</h3>
 	<ul>
-		<li><label><input type="checkbox" checked="checked"/> XHTML</label></li>
-		<li><label><input type="checkbox" checked="checked"></input> CSS</label></li>
-		<li><label><input type="checkbox" checked="checked"/> JavaScript</label></li>
-		<li><label><input type="checkbox" checked="checked"/> jQuery</label></li>
-		<li><label><input type="checkbox" checked="unchecked"/> jQuery UI</label></li>
-		<li><label><input type="checkbox"/> Phyton</label></li>
-		<li><label><input type="checkbox" checked="checked"/> SQL</label></li>
-		<li><label><input type="checkbox" checked="checked"/> PHP</label></li>
-		<li><label><input type="checkbox" checked="checked"/> Java</label></li>
-		<li><label><input type="checkbox"/> C++</label></li>
-		<li><label><input type="checkbox" checked="checked"/> Bootstrap</label></li>
+		<li> XHTML</li>
+		<li> CSS</li>
+		<li> JavaScript</li>
+		<li> jQuery</li>
+		<!--li> jQuery UI</li>
+		<li> Phyton</li-->
+		<li> SQL</li>
+		<li> PHP</li>
+		<li> Java</li>
+		<!--li> C++</li-->
+		<li> Bootstrap</li>
 	</ul>
 </body>
 </html>
