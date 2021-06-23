@@ -22,8 +22,6 @@
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
 <hr></hr>
 <h3>My learning progress</h3>
-<code>
-  <html>
     <label><input type="checkbox" checked="checked"/> XHTML</label>
     <label><input type="checkbox" checked="checked"></input> CSS</label>
     <label><input type="checkbox" checked="checked"/> JavaScript</label>
@@ -35,8 +33,6 @@
     <label><input type="checkbox" checked="checked"/> Java</label>
     <label><input type="checkbox"/> C++</label>
     <label><input type="checkbox" checked="checked"/> Bootstrap</label>
-  </html>
-</code>
 </body>
 </html>
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCancelaCastro")/-->
