@@ -17,8 +17,25 @@
   <li>📫 How to <b>reach me</b>: <a href="mailto:cancelacastrolaura@gmail.com">cancelacastrolaura@gmail.com</a>.</li>
   <li>🗺 My two native languages are Spanish 🇪🇸 and Galician (which allows me to understand portuguese 🇵🇹) and I have 
 </ul>
-<hr></hr>
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
+<!--hr></hr>
+<h3>My learning progress</h3>
+<code>
+  <html>
+    <label><input type="checkbox" checked="checked"/> XHTML</label>
+    <label><input type="checkbox" checked="checked"></input> CSS</label>
+    <label><input type="checkbox" checked="checked"/> JavaScript</label>
+    <label><input type="checkbox" checked="checked"/> jQuery</label>
+    <label><input type="checkbox" checked="unchecked"/> jQuery UI</label>
+    <label><input type="checkbox"/> Phyton</label>
+    <label><input type="checkbox" checked="checked"/> SQL</label>
+    <label><input type="checkbox" checked="checked"/> PHP</label>
+    <label><input type="checkbox" checked="checked"/> Java</label>
+    <label><input type="checkbox"/> C++</label>
+    <label><input type="checkbox" checked="checked"/> Bootstrap</label>
+  </html>
+</code-->
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCancelaCastro")/-->
 <!--ul>
   <li><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a></li>
   <li><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a></li>
@@ -30,14 +47,3 @@
 LauraCancelaCastro/LauraCancelaCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--style>
-  hr {
-    border-top: 1px solid;
-    border-image: 
-      linear-gradient(
-        to bottom, 
-        #C7DE98, 
-        #879960
-      ) 1 100%;
-  }
-</style-->
