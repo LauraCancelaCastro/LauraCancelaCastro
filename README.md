@@ -21,17 +21,17 @@
 <hr></hr>
 <h3>My learning progress</h3>
 <ul>
-	<li>✔ XHTML</li>
-	<li>✔ CSS</li>
-	<li>✔ JavaScript</li>
-	<li>✔ jQuery</li>
+	<li> XHTML ✔</li>
+	<li> CSS ✔</li>
+	<li> JavaScript ✔</li>
+	<li> jQuery ✔</li>
 	<li> jQuery UI</li>
 	<li> Phyton</li>
-	<li>✔ SQL</li>
-	<li>✔ PHP</li>
-	<li>✔ Java</li>
+	<li> SQL ✔</li>
+	<li> PHP ✔</li>
+	<li> Java ✔</li>
 	<li> C++</li>
-	<li>✔ Bootstrap</li>
+	<li> Bootstrap ✔</li>
 </ul>
 
 
