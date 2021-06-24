@@ -1,5 +1,3 @@
-<html>
-<body>
 <h1>Hi, I’m Laura.</h1>
 <h3>I'm a fast learner who enjoys working.</h3>
 <ul>
@@ -21,29 +19,76 @@
 </ul>
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
 <hr></hr>
-<h3>My skills</h3>
-	<ul>
-		<li> XHTML</li>
-		<li> CSS</li>
-		<li> JavaScript</li>
-		<li> jQuery</li>
-		<!--li> jQuery UI</li>
-		<li> Phyton</li-->
-		<li> SQL</li>
-		<li> PHP</li>
-		<li> Java</li>
-		<!--li> C++</li-->
-		<li> Bootstrap</li>
-	</ul>
-</body>
-</html>
-<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraCancelaCastro")/-->
-<!--ul>
-  <li><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a></li>
-  <li><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a></li>
-  <li></li>
-  <li></li>
-</ul-->
+<h3>My learning progress</h3>
+<ul>
+	<li>✔ XHTML</li>
+	<li>✔ CSS</li>
+	<li>✔ JavaScript</li>
+	<li>✔ jQuery</li>
+	<li> jQuery UI</li>
+	<li> Phyton</li>
+	<li>✔ SQL</li>
+	<li>✔ PHP</li>
+	<li>✔ Java</li>
+	<li> C++</li>
+	<li>✔ Bootstrap</li>
+</ul>
+
+
+<!-- Github Readme Stats - Projects, most used languages and user info -->
+<div>
+ <!--
+NOTE: token deprecated
+ <img height="165px" align="center" src="https://github-readme-stats.LauraCancelaCastro.vercel.app/api/top-langs/?username=LauraCancelaCastro&layout=compact&theme=tokyonight" />
+ <img height="165px" align="center" src="https://github-readme-stats.LauraCancelaCastro.vercel.app/api?username=LauraCancelaCastro&show_icons=true&include_all_commits=true&theme=tokyonight" />
+ -->
+</div><br/>
+
+<!-- Wakatime Stats -->
+<!--START_SECTION:waka>
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-302828%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
+🌆 Daytime    43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.77% 
+🌃 Evening    147 commits    █████████████████░░░░░░░░   71.01% 
+🌙 Night      8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.86%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       35 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Tuesday      36 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Wednesday    41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.81% 
+Thursday     33 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Friday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Saturday     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.8% 
+Sunday       21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.14%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+JavaScript               1 hr                ███████████████████████░░   91.78% 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+
+🔥 Editors: 
+VS Code                  1 hr 6 mins         █████████████████████████   100.0%
+
+```
+
+
+<END_SECTION:waka-->
 
 <!---
 LauraCancelaCastro/LauraCancelaCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
