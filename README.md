@@ -15,7 +15,7 @@
   <li>👩‍🎓 I recently graduated in <b>Web App Development</b> with honors and I'm currently learning more skills.</li>
   <li>🤝 I’m looking to collaborate on interesting projects that can help me <b>learn and improve</b>.</li>
   <li>📫 How to <b>reach me</b>: <a href="mailto:cancelacastrolaura@gmail.com">cancelacastrolaura@gmail.com</a>.</li>
-  <li>🗺 My two native languages are Spanish 🇪🇸 and Galician (which allows me to understand portuguese 🇵🇹) and I have 
+  <li>🗺 My two native languages are Spanish and Galician.
 </ul>
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
 <hr></hr>
