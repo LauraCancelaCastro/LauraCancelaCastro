@@ -21,16 +21,34 @@
 <hr></hr>
 <h3>My learning progress</h3>
 <ul>
-	<li> XHTML & CSS ✔</li>
-	<li> JavaScript ✔</li>
-	<li> jQuery ✔</li>
-	<li> jQuery UI</li>
-	<li> Phyton</li>
-	<li> SQL ✔</li>
-	<li> PHP ✔</li>
-	<li> Java ✔</li>
-	<li> C++</li>
-	<li> Bootstrap ✔</li>
+	<li>Front End
+		<ul>
+			<li>XHTML & CSS ✔</li>
+			<li>JavaScript ✔</li>
+			<li>JQuery ✔</li>
+			<li>Bootstrap ✔</li>
+			<li>React </li>
+			<li>AngularJS </li>
+			<li>SASS </li>
+			<li>Vue.js </li>
+			<li>Elm </li>
+			<li>TypeScript </li>
+		</ul>
+	</li>
+	<li>Back End
+		<ul>
+			<liJava ✔</li>
+			<li>PHP ✔</li>
+			<li>JavaScript ✔</li>
+			<li>SQL ✔</li>
+			<li>Ruby </li>
+			<li>Python </li>
+			<li>Rust </li>
+			<li>C/C++ </li>
+			<li>NodeJS </li>
+			<li>Solidity </li>
+		</ul>
+	</li>
 </ul>
 
 
