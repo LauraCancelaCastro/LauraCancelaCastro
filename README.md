@@ -12,7 +12,7 @@
       <li>📚  Listening to audiobooks and writting.</li>
     </ul>
   </li>
-  <li>👩‍🎓 I’m currently finishing Profesional Formation in <b>Web App Development</b> and getting ready for new learning experiences.</li>
+  <li>👩‍🎓 I recently graduated in <b>Web App Development</b> with honors and I'm currently learning more skills.</li>
   <li>🤝 I’m looking to collaborate on interesting projects that can help me <b>learn and improve</b>.</li>
   <li>📫 How to <b>reach me</b>: <a href="mailto:cancelacastrolaura@gmail.com">cancelacastrolaura@gmail.com</a>.</li>
   <li>🗺 My two native languages are Spanish 🇪🇸 and Galician (which allows me to understand portuguese 🇵🇹) and I have 
@@ -21,8 +21,7 @@
 <hr></hr>
 <h3>My learning progress</h3>
 <ul>
-	<li> XHTML ✔</li>
-	<li> CSS ✔</li>
+	<li> XHTML & CSS ✔</li>
 	<li> JavaScript ✔</li>
 	<li> jQuery ✔</li>
 	<li> jQuery UI</li>
