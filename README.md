@@ -1,5 +1,5 @@
 <h1>Hi, I’m Laura.</h1>
-<h3>I'm a fast learner who enjoys working.</h3>
+<!-- h3>I'm a fast learner who enjoys working.</h3>
 <ul>
   <li>🥇 I'm a strong <b>perfectionist</b> but failing doesn't stop me.</li>
   <li>😻 <b>Curiosity</b> killed the cat but thus far it hasn't killed me.</li>
@@ -16,10 +16,10 @@
   <li>🤝 I’m looking to collaborate on interesting projects that can help me <b>learn and improve</b>.</li>
   <li>📫 How to <b>reach me</b>: <a href="mailto:cancelacastrolaura@gmail.com">cancelacastrolaura@gmail.com</a>.</li>
   <li>🗺 My two native languages are Spanish and Galician.
-</ul>
+</ul -->
 <h4>Want to learn more about me? You can find me in <!--the following social media--><a href="https://www.linkedin.com/in/laura-cancela-castro/">LinkedIn</a>.</h4>
 <hr></hr>
-<h3>My learning progress</h3>
+<!-- h3>My learning progress</h3>
 <ul>
 	<li>Front End
 		<ul>
@@ -49,7 +49,7 @@
 			<li>Solidity </li>
 		</ul>
 	</li>
-</ul>
+</ul>-->
 
 
 <!-- Github Readme Stats - Projects, most used languages and user info -->
